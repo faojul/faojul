@@ -45,6 +45,8 @@ Technical Skills At A Glance
 <br>
 <br>
 
+### :fire: My Stats :
+
 <img align="left" alt="rezaulk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faojul&show_icons=true" />
 
 <br>

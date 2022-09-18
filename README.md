@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Novotel Limited.](https://brilliant.com.bd/)
 - 🌱 I’m currently learning Clean architecture, CQRS and MicroServices
-- 🤔 I’m looking for remote opportunities to work with exiciting projeects on .NET stack
+- 🤔 I’m looking for remote opportunities to work with exiciting projects on .NET stack
 
 ------------------------------------------------------------
 More than 4.5 years of industrial experience on .NET stack and MS SQL database.
@@ -20,7 +20,7 @@ Always love to write articles about Technical and non-technical stuff.
 
 ---------------------------------------------------------------
 
-Technical Skills At A Glance
+**Technical Skills At A Glance**
 
        •	Programming Languages: C, C++, C#, Java
        •	Framework: VB.NET, ASP.NET, ASP.NET MVC, ASP.NET Core, .NET 5, .NET 6
@@ -28,10 +28,10 @@ Technical Skills At A Glance
        •	DBMS: MS SQL, MySQL 
        •	Design principles: SOLID, KISS, DRY, YAGNI
        •	Software Tools:  
-               •	**IDE**: Visual Studio, Visual Studio Code, SQL Server Management Studio, Eclipse, 
+               •	IDE: Visual Studio, Visual Studio Code, SQL Server Management Studio, Eclipse, 
                       NetBeans, Android Studio, Code Blocks, etc
-               •	**Version Control System(VCS)**: Git, SVN, GitHub, GitLab
-               •	**Project Management Tools**: Jira
+               •	Version Control System(VCS): Git, SVN, GitHub, GitLab
+               •	Project Management Tools: Jira
                
 <!--
 **faojul/faojul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img align="left" alt="rezaulk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faojul&show_icons=true" />
-
+<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faojul&layout=compact)]()
 
 

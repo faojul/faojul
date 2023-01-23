@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Novotel Limited.](https://brilliant.com.bd/)
+- 🔭 I’m currently working on [Streams Tech Ltd.](https://streamstech.com.bd/)
 - 🌱 I’m currently learning Clean architecture, CQRS and MicroServices
 - 🤔 I’m looking for remote opportunities to work with exiciting projects on .NET stack
 

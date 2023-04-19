@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for remote opportunities to work with exiciting projects on .NET stack
 
 ------------------------------------------------------------
-More than 4.5 years of industrial experience on .NET stack and MS SQL database.
+5+ years of industrial experience on .NET stack with Angular as front end.
 
 Always try to maintain the SOLID principle and follow standard practices to keep the code clean.
 Love to read about .NET project architecture such as N-layered Architecture, Clean, or Onion Architecture, and implement those architectural patterns based on the project requirements and their pros and cons.
 
 Very much proficient in writing complex yet optimized and robust TSQL and Stored procedures in MSSQL.
 
-Though I love to work with the .NET stack, I am very open to new technology.
+Though love to work with the .NET stack, very open to new technology.
 
 Always love to write articles about Technical and non-technical stuff.
 
@@ -23,14 +23,14 @@ Always love to write articles about Technical and non-technical stuff.
 **Technical Skills At A Glance**
 
        •	Programming Languages: C, C++, C#, Java
-       •	Framework: VB.NET, ASP.NET, ASP.NET MVC, ASP.NET Core, .NET 5, .NET 6
+       •	Framework: VB.NET, ASP.NET, ASP.NET MVC, ASP.NET Core, .NET 5, .NET 6, Angular 8+
        •	Scripting Language: JavaScript, JQuery, Ajax
        •	DBMS: MS SQL, MySQL 
        •	Design principles: SOLID, KISS, DRY, YAGNI
        •	Software Tools:  
                •	IDE: Visual Studio, Visual Studio Code, SQL Server Management Studio, Eclipse, 
                       NetBeans, Android Studio, Code Blocks, etc
-               •	Version Control System(VCS): Git, SVN, GitHub, GitLab
+               •	Version Control System(VCS): Git, SVN, GitHub, GitLab, BitBucket
                •	Project Management Tools: Jira
                
 <!--

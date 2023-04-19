@@ -47,11 +47,11 @@ Always love to write articles about Technical and non-technical stuff.
 
 ### :fire: My Stats :
 
-<img align="left" alt="faojul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faojul&show_icons=true" />
+<img align="left" alt="faojul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faojul&show_icons=true&count_private=true" />
 
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faojul&layout=compact)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faojul&layout=compact&count_private=true)]()
 
 
 [linkedin]: https://www.linkedin.com/in/faojul-ahsan/

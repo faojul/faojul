@@ -47,7 +47,7 @@ Always love to write articles about Technical and non-technical stuff.
 
 ### :fire: My Stats :
 
-<img align="left" alt="rezaulk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faojul&show_icons=true" />
+<img align="left" alt="faojul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faojul&show_icons=true" />
 
 <br>
 

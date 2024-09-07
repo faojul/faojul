@@ -3,11 +3,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Streams Tech Ltd.](https://streamstech.com.bd/)
-- 🌱 I’m currently learning Clean architecture, CQRS and MicroServices
+- 🌱 I’m currently learning Python, AI/ML
 - 🤔 I’m looking for remote opportunities to work with exiciting projects on .NET stack
 
 ------------------------------------------------------------
-5+ years of industrial experience on .NET stack with Angular as front end.
+6+ years of industrial experience on .NET stack with Angular as front end.
 
 Always try to maintain the SOLID principle and follow standard practices to keep the code clean.
 Love to read about .NET project architecture such as N-layered Architecture, Clean, or Onion Architecture, and implement those architectural patterns based on the project requirements and their pros and cons.

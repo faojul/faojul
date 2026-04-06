@@ -74,4 +74,4 @@ Always open to discussions on backend architecture, remote work best practices, 
 
 ## 🔥 My Stats
 
-https://streak-stats.demolab.com?user=faojul&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faojul&theme=dark&hide_border=true)](https://git.io/streak-stats)

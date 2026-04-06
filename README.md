@@ -67,8 +67,7 @@ Mentored 10+ developers through code reviews, pair programming, and career guida
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/faojul-ahsan/)  
-- [Email](mailto:faojulahsan@gmail.com)  
-- [Blog/Articles](https://codemaze.com/author/faojul-ahsan/) (if applicable)  
+- [Email](mailto:faojulahsan@gmail.com)   
 
 Always open to discussions on backend architecture, remote work best practices, or mentoring opportunities!
 

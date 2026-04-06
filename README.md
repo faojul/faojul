@@ -74,8 +74,4 @@ Always open to discussions on backend architecture, remote work best practices, 
 
 ## 🔥 My Stats
 
-![faojul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faojul&theme=radical&show_icons=true)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faojul&layout=compact&theme=radical)
+https://streak-stats.demolab.com?user=faojul&theme=dark&hide_border=true)](https://git.io/streak-stats)

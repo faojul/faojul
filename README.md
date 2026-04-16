@@ -2,7 +2,7 @@
 
 Senior Backend Engineer and Team Lead with 8+ years of experience building scalable, high-performance systems for global clients. Strong foundation in **.NET (C#)** with an active focus on **Go (Golang)** for modern, high-performance backend services.
 
-Passionate about designing production-grade systems using **Clean Architecture, CQRS, and distributed system principles**. Experienced in leading remote-first teams, mentoring engineers, and working effectively in async, distributed environments. Open to remote opportunities with global companies like Doist, Automattic, Buffer, or Toggl.
+Passionate about designing production-grade systems using **Clean Architecture, CQRS, and distributed system principles**. Experienced in leading remote-first teams, mentoring engineers, and working effectively in async, distributed environments. Open to remote opportunities with global companies.
 
 🔭 Currently working as Senior Software Engineer at Streams Tech Ltd. (Remote, serving US clients)  
 🌱 Currently building backend systems in **Go** and exploring **AI/ML integrations (ML.NET, forecasting)**  

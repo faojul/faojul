@@ -1,105 +1,173 @@
 # Hi there, I'm Faojul Ahsan 👋
 
-Senior Backend Engineer and Team Lead with 8+ years of experience building scalable, high-performance systems for global clients. Strong foundation in **.NET (C#)** with an active focus on **Go (Golang)** for modern, high-performance backend services.
+Senior Backend Engineer and Team Lead with 8+ years of experience building scalable, high-performance systems for global clients. Strong expertise in **C# and .NET**, with a growing focus on **AI Engineering, LLM integrations, and Python-based AI applications**.
 
-Passionate about designing production-grade systems using **Clean Architecture, CQRS, and distributed system principles**. Experienced in leading remote-first teams, mentoring engineers, and working effectively in async, distributed environments. Open to remote opportunities with global companies.
+Passionate about modernizing legacy systems, designing maintainable architectures, and building production-ready software using Clean Architecture, CQRS, and distributed systems principles. Experienced in leading remote teams, mentoring engineers, and collaborating with international clients.
 
-🔭 Currently working as Senior Software Engineer at Streams Tech Ltd. (Remote, serving US clients)  
-🌱 Currently building backend systems in **Go** and exploring **AI/ML integrations (ML.NET, forecasting)**  
-💼 Seeking remote Senior Backend / Go / .NET roles  
-📝 Former technical writer at Code Maze, sharing insights on clean code and architecture  
+- 🔭 **Focus:** .NET backend engineering and AI Engineering
+- 🌱 **Currently learning:** AI Engineering for .NET Developers, Python, FastAPI, LangChain, and LangGraph
+- ✍️ **Writing:** [AI Engineering for .NET Developers — LinkedIn Series](./AI-Engineering-for-DotNet-Developers.md)
+- 💼 **Open to:** Remote Senior Software Engineer, Senior .NET Engineer, and AI Engineering opportunities
+- 📝 **Former Technical Content Author:** Code Maze
 
 ---
 
 ## Technical Skills
 
 ### Backend & Frameworks
-- **Go (Golang)**: concurrency, performance-oriented services, clean architecture *(active focus)*  
-- **.NET (7+ years)**: C#, .NET 6/8/10, ASP.NET Core, Web API, EF Core, Dapper  
-- **Python (3+ years)**: FastAPI, Django REST Framework  
 
-### Architecture & Systems
-- Clean Architecture, CQRS, Domain-Driven Design  
-- Microservices & Modular Monolith  
-- Distributed systems, async processing  
+- **C# / .NET:** 8+ years, ASP.NET Core, Web API, EF Core, Dapper, .NET 6/8/10
+- **Python:** FastAPI, Django REST Framework; expanding into AI application development
+- **AI Engineering:** ML.NET, Microsoft Semantic Kernel, Microsoft Agent Framework, LLM integration, RAG fundamentals
+
+### Architecture & System Design
+
+- Clean Architecture, CQRS, Domain-Driven Design
+- Microservices and Modular Monoliths
+- Distributed Systems and Asynchronous Processing
+- Legacy System Modernization and Performance Optimization
+- SOLID, KISS, DRY, and YAGNI
 
 ### Data & Infrastructure
-- PostgreSQL, MS SQL Server, MySQL, MongoDB, Redis  
-- Azure, Docker, GitHub Actions, CI/CD, AWS (basics)  
 
-### Messaging & Realtime
-- RabbitMQ, Kafka, SignalR  
+- PostgreSQL, MS SQL Server, MySQL, MongoDB, Redis
+- Azure, Docker, GitHub Actions, CI/CD, AWS (fundamentals)
 
-### Soft Skills & Tools
-- Leadership, Mentoring, Remote Work, Async Communication  
-- ChatGPT, Copilot, Claude  
-- Visual Studio, VS Code, Jira, Slack, GitHub  
+### Messaging & Real-Time Systems
 
-Adhere to SOLID, KISS, DRY, and YAGNI principles for clean, maintainable systems. Strong in performance optimization and system design.
+- RabbitMQ, Kafka, SignalR
+
+### Engineering & Collaboration
+
+- Technical Leadership, Code Reviews, Mentoring
+- Remote-First Collaboration and Async Communication
+- GitHub, Visual Studio, VS Code, Jira, Slack
+- GitHub Copilot, ChatGPT, Claude
+
+---
+
+## AI Engineering & Technical Writing
+
+I'm documenting my journey into AI Engineering, with a focus on helping .NET developers understand and implement modern AI capabilities in their applications.
+
+**[Explore the AI Engineering for .NET Developers series →](./AI-Engineering-for-DotNet-Developers.md)**
+
+Topics include:
+
+- .NET AI abstractions and `IChatClient`
+- Building AI-powered APIs with ASP.NET Core
+- Microsoft Semantic Kernel and Microsoft Agent Framework
+- Function calling, plugins, and conversation history
+- Retrieval-Augmented Generation (RAG)
+- Embeddings, vector search, and grounding
+- Designing practical AI-powered backend applications
 
 ---
 
 ## Experience
 
-- **Senior Software Engineer** @ Streams Tech Ltd. (Dec 2022 – Present, Remote)  
-  Improved system performance by **60%**, modernized architecture, and built scalable APIs using **Clean Architecture + CQRS** (reducing response times by **45%**). Collaborate with distributed US teams in async workflows.
+### Senior Software Engineer — Streams Tech Ltd.
+*Dec 2022 – Present | Remote*
 
-- **Senior Software Engineer & Team Lead** @ Novotel (InterCloud) Limited (Jun 2021 – Dec 2022)  
-  Led 4 engineers to deliver **6+ enterprise systems**, automated workflows (**60% faster**, **40% cost reduction**), mentored developers, and integrated external systems.
+- Modernized legacy .NET applications to modern frameworks and maintainable architectural patterns.
+- Improved system performance by up to **60%** and reduced API response times by up to **45%**.
+- Designed scalable backend APIs using Clean Architecture, CQRS, and modern .NET technologies.
+- Collaborated with distributed teams serving US clients.
 
-- **Technical Content Author (Part-Time)** @ Code Maze (Dec 2021 – May 2022, Remote)  
-  Authored practical backend engineering articles focused on clean architecture and production-ready code.
+### Senior Software Engineer & Team Lead — Novotel (InterCloud) Limited
+*Jun 2021 – Dec 2022*
 
-- **Software Engineer** @ Novotel (InterCloud) Limited (Jun 2018 – May 2021)  
-  Developed telecom billing systems, improved data processing performance by **40%**, and handled production deployments and support.
+- Led a team of four engineers delivering **6+ enterprise systems**.
+- Automated business workflows, improving processing speed by **60%** and reducing costs by **40%**.
+- Conducted code reviews, mentored engineers, and integrated external systems.
+
+### Technical Content Author — Code Maze
+*Dec 2021 – May 2022 | Remote, Part-Time*
+
+- Authored practical backend engineering articles focused on clean code, architecture, and production-ready .NET development.
+
+### Software Engineer — Novotel (InterCloud) Limited
+*Jun 2018 – May 2021*
+
+- Developed and maintained enterprise telecom billing systems.
+- Improved data-processing performance by **40%**.
+- Supported production deployments, troubleshooting, and database optimization.
 
 ---
 
-## Open Source Contributions
+## Open Source & Personal Projects
 
-- **[Rule Resolution Service (Go)](https://github.com/faojul/Rules-Resolution-Service)**  
-  A rule evaluation engine built with **Go + Clean Architecture** to resolve complex rule conflicts deterministically.  
-  Demonstrates backend system design, extensibility, and performance-focused implementation.
+### 1. [LiteMediator](https://github.com/faojul/LiteMediator)
 
-- **[LiteMediator](https://github.com/faojul/LiteMediator)**  
-  Lightweight in-process Mediator library for .NET. Implements CQRS-style patterns and decouples command/query handling.
+A lightweight in-process Mediator library for .NET.
 
-- **(Upcoming) Go Backend Project**  
-  Production-grade backend service focusing on **concurrency, caching, and rate limiting**.
+- Supports CQRS-style command and query handling.
+- Promotes separation of concerns and loosely coupled application components.
+
+### 2. [FastAPI Starter — Clean Architecture](https://github.com/faojul/fastapi-starter-clean-architecture)
+
+A Python FastAPI starter project organized around Clean Architecture principles.
+
+- Provides a structured foundation for building maintainable Python backend applications.
+- Supports exploration of architectural patterns across the .NET and Python ecosystems.
+- Serves as a starting point for future Python-based AI applications.
+
+### 3. [Sponsorship Workflow](https://github.com/faojul/Sponsorship-Workflow)
+
+A workflow-oriented application built with modern backend and frontend technologies.
+
+- Demonstrates application development, workflow management, and separation of concerns.
+- Showcases practical implementation of a full-stack software project.
+
+### 4. [Rules Resolution Service](https://github.com/faojul/Rules-Resolution-Service)
+
+A rule evaluation engine designed to resolve complex rule conflicts deterministically.
+
+- Demonstrates backend system design, rule evaluation, and extensibility.
+
+### 5. AgamirProperty Procurement System
+
+*A freelance .NET project.*
+
+- Reduced manual workload by **40%**.
+- Reduced task completion time from **two days to under eight hours**.
+- Implemented real-time notifications.
+
+### 6. Customer Relationship Management Platform
+
+*A Python-based project.*
+
+- Integrated Microsoft Graph API.
+- Improved response time by **35%** using Django, PostgreSQL, and React.
 
 ---
 
-## Projects
+## Leadership & Engineering Practices
 
-- **AgamirProperty Procurement System** (Freelance, .NET)  
-  Reduced manual workload by **40%** and task time from **2 days → <8 hours**. Implemented real-time notifications.
-
-- **Customer Relationship Management (CRM) Platform** (Python)  
-  Integrated Microsoft Graph API and reduced response time by **35%** using Django, PostgreSQL, and React.
+- Mentored **10+ developers** through code reviews, technical discussions, and pair programming.
+- Led cross-functional teams of 3–5 engineers.
+- Focused on maintainable architecture, engineering quality, performance, and reliable delivery.
+- Experienced in working with distributed teams across Bangladesh, India, and the United States.
 
 ---
 
 ## Education
 
-Bachelor of Computer Science, Khulna University of Engineering & Technology (KUET), 2014–2018.
+**Bachelor of Computer Science and Engineering**  
+Khulna University of Engineering & Technology (KUET) | 2014–2018
 
 ---
 
-## Leadership
+## Connect With Me
 
-Mentored **10+ developers** through code reviews and pair programming. Led cross-functional teams (3–5 members) with strong focus on architecture and delivery.
+- [LinkedIn](https://www.linkedin.com/in/faojul-ahsan/)
+- [Email](mailto:faojulahsan@gmail.com)
+- [GitHub Projects](https://github.com/faojul)
 
----
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/faojul-ahsan/)  
-- [Email](mailto:faojulahsan@gmail.com)  
-
-Always open to discussions on backend systems, Go, distributed architecture, or remote engineering.
+Always open to discussing .NET, AI Engineering, backend architecture, Python application development, and remote engineering opportunities.
 
 ---
 
-## 🔥 My Stats
+## 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faojul&theme=dark&hide_border=true)](https://git.io/streak-stats)

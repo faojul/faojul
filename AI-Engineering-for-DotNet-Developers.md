@@ -16,21 +16,22 @@ The goal is to understand modern AI concepts and apply them to real-world .NET a
 | 6 | Embeddings | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-llm-embeddings-share-7483467576488927232-Jlov/) |
 | 7 | Semantic Search | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-csharp-share-7485541001353224192-y-Z1/) |
 | 8 | VectorData and Vector Search | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-vectordatabase-share-7485908076999491584-6BUD/) |
-| 9 | Building a RAG Service | [Read post](PASTE_LINK_HERE) |
-| 10 | Semantic Kernel vs. Microsoft Agent Framework | [Read post](PASTE_LINK_HERE) |
-| 11 | IChatClient | [Read post](PASTE_LINK_HERE) |
-| 12 | Building AI APIs with ASP.NET Core | [Read post](PASTE_LINK_HERE) |
-| 13 | Microsoft Semantic Kernel | [Read post](PASTE_LINK_HERE) |
-| 14 | Plugins and Function Calling | [Read post](PASTE_LINK_HERE) |
-| 15 | Managing Conversation History | [Read post](PASTE_LINK_HERE) |
-| 16 | Understanding the AI Assistant Request Flow | [Read post](PASTE_LINK_HERE) |
-| 17 | Retrieval-Augmented Generation (RAG) Fundamentals | [Read post](PASTE_LINK_HERE) |
-| 18 | VectorData and Vector Search | [Read post](PASTE_LINK_HERE) |
-| 19 | Building a RAG Service | [Read post](PASTE_LINK_HERE) |
-| 20 | Semantic Kernel vs. Microsoft Agent Framework | [Read post](PASTE_LINK_HERE) |
-| 21 | Semantic Kernel vs. Microsoft Agent Framework | [Read post](PASTE_LINK_HERE) |
-| 22 | IChatClient | [Read post](PASTE_LINK_HERE) |
-| 23 | Vector Stores → Where RAG Actually Finds Knowledge | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-artificialintelligence-aiengineering-share-7503818232307269632-HmJk/) |
+| 9 | RAG at a glance | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-rag-share-7485992950955393024-GA9p/) |
+| 10 | Transforms an AI demo into a production-ready application | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-openai-share-7486096367921315840-_HDD/) |
+| 11 | Prompt Engineering | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-promptengineering-llm-share-7486111108164935680-HP1H/) |
+| 12 | Structured Outputs | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-openai-share-7487701493177794560-w82i/) |
+| 13 | Function Calling → The Bridge Between AI and Real Applications | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-functioncalling-share-7487769321696284675--1S8/) |
+| 14 | AI Streaming Responses | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-dotnet-streaming-share-7488160611562831872-bfN9/) |
+| 15 Part 1| .NET AI ecosystem Cheat Sheet | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-csharp-artificialintelligence-share-7490358319044481024-L6kS/) |
+| 15 Part 2| Microsoft.Extensions.AI→ One Abstraction, Multiple AI Providers | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-ai-microsoftextensionsai-share-7490399541708345344-AYZl/) |
+| 16 | ASP.NET Core AI API | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7495073804612718592-Rr7a/) |
+| 17 | Semantic Kernel → From AI Calls to AI Orchestration | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-csharp-semantickernel-share-7495658111664553986-bV8R/) |
+| 18 | Plugins and Function Calling | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-csharp-semantickernel-share-7495682043503243265--HCS/) |
+| 19 | Semantic Kernel → Conversation History & Context Management | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-csharp-semantickernel-share-7498318443113451520-OqJf/) |
+| 20 | From AI APIs to a Real AI Assistant | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-csharp-semantickernel-share-7500002210970324992-MUwY/) |
+| 21 | RAG architecture | [Read post](https://www.linkedin.com/posts/faojul-ahsan_aiengineering-dotnet-csharp-share-7500406847439257600-xSaV/) |
+| 22 | Document ingestion & chunking | [Read post](https://www.linkedin.com/posts/faojul-ahsan_aiengineering-dotnet-csharp-share-7500795917541822464-UTVl/) |
+| 23 | Vector stores / Microsoft.Extensions.VectorData | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-artificialintelligence-aiengineering-share-7503818232307269632-HmJk/) |
 | 24 | Building a Complete RAG Pipeline | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7505099781665341440-tDW6/) |
 | 25 | RAG + Semantic Kernel → Why Learn SK if Microsoft Agent Framework Exists? | [Read post](https://www.linkedin.com/posts/faojul-ahsan_aiengineering-rag-semantickernel-share-7510316068385759233-OX8s/) |
 | 26 | Hybrid Search + Metadata Filtering → Making RAG Retrieval More Reliable | [Read post](https://www.linkedin.com/posts/faojul-ahsan_aiengineering-dotnet-csharp-share-7510641863486459904-numG/) |

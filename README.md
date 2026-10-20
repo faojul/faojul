@@ -7,7 +7,7 @@ Passionate about modernizing legacy systems, designing maintainable architecture
 - 🔭 **Focus:** .NET backend engineering and AI Engineering
 - 🌱 **Currently learning:** AI Engineering for .NET Developers, Python, FastAPI, LangChain, and LangGraph
 - ✍️ **Writing:** [AI Engineering for .NET Developers — LinkedIn Series](./AI-Engineering-for-DotNet-Developers.md)
-- 💼 **Open to:** Remote Senior Software Engineer, Senior .NET Engineer, and AI Engineering opportunities
+- 💼 **Open to:** Remote Senior Software Engineer, Senior .NET Engineer, Technical Lead and AI Engineering opportunities
 - 📝 **Former Technical Content Author:** Code Maze
 
 ---
@@ -138,7 +138,6 @@ A rule evaluation engine designed to resolve complex rule conflicts deterministi
 *A Python-based project.*
 
 - Integrated Microsoft Graph API.
-- Improved response time by **35%** using Django, PostgreSQL, and React.
 
 ---
 

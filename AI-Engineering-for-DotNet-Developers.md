@@ -30,15 +30,21 @@ The goal is to understand modern AI concepts and apply them to real-world .NET a
 | 20 | Semantic Kernel vs. Microsoft Agent Framework | [Read post](PASTE_LINK_HERE) |
 | 21 | Semantic Kernel vs. Microsoft Agent Framework | [Read post](PASTE_LINK_HERE) |
 | 22 | IChatClient | [Read post](PASTE_LINK_HERE) |
-| 23 | Building AI APIs with ASP.NET Core | [Read post](PASTE_LINK_HERE) |
-| 24 | Microsoft Semantic Kernel | [Read post](PASTE_LINK_HERE) |
-| 25 | Plugins and Function Calling | [Read post](PASTE_LINK_HERE) |
-| 26 | Managing Conversation History | [Read post](PASTE_LINK_HERE) |
-| 27 | Understanding the AI Assistant Request Flow | [Read post](PASTE_LINK_HERE) |
-| 28 | Retrieval-Augmented Generation (RAG) Fundamentals | [Read post](PASTE_LINK_HERE) |
-| 29 | VectorData and Vector Search | [Read post](PASTE_LINK_HERE) |
-| 30 | Building a RAG Service | [Read post](PASTE_LINK_HERE) |
-| 31 | Semantic Kernel vs. Microsoft Agent Framework | [Read post](PASTE_LINK_HERE) |
+| 23 | Vector Stores → Where RAG Actually Finds Knowledge | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-artificialintelligence-aiengineering-share-7503818232307269632-HmJk/) |
+| 24 | Building a Complete RAG Pipeline | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7505099781665341440-tDW6/) |
+| 25 | RAG + Semantic Kernel → Why Learn SK if Microsoft Agent Framework Exists? | [Read post](https://www.linkedin.com/posts/faojul-ahsan_aiengineering-rag-semantickernel-share-7510316068385759233-OX8s/) |
+| 26 | Hybrid Search + Metadata Filtering → Making RAG Retrieval More Reliable | [Read post](https://www.linkedin.com/posts/faojul-ahsan_aiengineering-dotnet-csharp-share-7510641863486459904-numG/) |
+| 27 | Reranking + Context Optimization → Making RAG More Precise | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7510914642119135232-AboQ/) |
+| 28 Part 1 | Production RAG → From AI Demo to Real Application | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7511304395712638976-AuN2/) |
+| 28 Part 2 | Production RAG → Evaluation & Observability | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7511381821754929153-WEM6/) |
+| 28 Part 3 | Production RAG → Security & Reliability | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7511404503796027392-Fmme/) |
+| 28 Part 4 | Production RAG → Latency & Cost | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-rag-dotnet-share-7512025659922264064-Ty29/) |
+| 28 Part 5 | Production RAG → Document Freshness & Architecture | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-rag-dotnet-share-7512036734826668033-PaO-/) |
+| 28 Part 6 | Production RAG → Architecture at a glance | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-rag-dotnet-share-7512084698358087680-wgG9/) |
+| 29 Part 1 | MCP → A Standard Way to Connect AI Applications with External Systems | [Read post](https://www.linkedin.com/posts/faojul-ahsan_dotnet-aiengineering-mcp-share-7515338797912358912-aRAC/) |
+| 29 Part 2 | MCP Architecture & Core Primitives | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7515603940298661888-XpZc/) |
+| 29 Part 3 | MCP Tool Calling Flow & Communication Mechanism | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7515625201657659393-EQSX/) |
+| 29 Part 4 | MCP Transport & MCP With RAG | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7516058190250254336-wwfI/) |
 
 *This index will be updated as new posts are published.*
 

@@ -1,8 +1,12 @@
 # AI Engineering for .NET Developers
 
 A practical, day-by-day learning and implementation series exploring AI Engineering with C# and .NET.
-
 The goal is to understand modern AI concepts and apply them to real-world .NET applications.
+
+Over the past **8+ years**, I’ve built backend applications using C#, .NET, ASP.NET Core, Clean Architecture, and cloud technologies. 
+Now I’m starting a structured journey to understand how AI fits into modern enterprise applications, and how I can use it to build smarter, more capable software.
+
+## *Series Author: Faojul Ahsan*
 
 ## Series Index
 

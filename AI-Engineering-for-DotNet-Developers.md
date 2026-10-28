@@ -50,6 +50,7 @@ Now I’m starting a structured journey to understand how AI fits into modern en
 | 29 Part 2 | MCP Architecture & Core Primitives | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7515603940298661888-XpZc/) |
 | 29 Part 3 | MCP Tool Calling Flow & Communication Mechanism | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7515625201657659393-EQSX/) |
 | 29 Part 4 | MCP Transport & MCP With RAG | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-share-7516058190250254336-wwfI/) |
+| 30 | Building MCP Server with C# → Exposing .NET Business Logic to AI Applications | [Read post](https://www.linkedin.com/posts/faojul-ahsan_ai-engineering-for-net-developers-day-ugcPost-7521058791400841216-jnId/) |
 
 *This index will be updated as new posts are published.*
 
